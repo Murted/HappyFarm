@@ -1,0 +1,123 @@
+# Игнорировать временные файлы Unity
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Игнорировать файлы проекта и решения
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.userprefs
+*.pidb
+*.booproj
+
+# Игнорировать файлы библиотеки Unity
+[Ll]ibrary/
+[Tt]emp/
+
+# Игнорировать файлы Asset Store
+[Aa]ssets/AssetStoreTools*
+
+# Игнорировать автогенерируемые файлы
+[Aa]ssets/Plugins/Editor/JetBrains*
+[Aa]ssets/Plugins/Editor/PostProcessing*
+[Aa]ssets/Plugins/Editor/TextMesh Pro*
+
+# Игнорировать файлы пакетов
+[Pp]ackages/
+
+# Игнорировать файлы кэша
+[Ll]ocal[Cc]ache/
+
+# Игнорировать файлы настроек IDE
+.vs/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Игнорировать файлы билдов
+[Bb]uild/
+[Bb]uilds/
+[Oo]utput/
+
+# Игнорировать файлы логов
+[Ll]ogs/
+
+# Игнорировать файлы macOS
+.DS_Store
+
+# Игнорировать файлы Visual Studio Code
+.vscode/
+
+# Игнорировать файлы Rider
+.idea/
+*.idea/
+
+# Игнорировать файлы Unity Collab
+[Cc]ollab*/
+
+# Игнорировать файлы пакетов UPM
+[Pp]ackages/
+[Aa]ssets/Packages/
+
+# Игнорировать файлы кэша Addressables
+[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# Игнорировать файлы кэша Shader
+[Aa]ssets/[Ss]treamingAssets/aa/*
+[Aa]ssets/[Ss]treamingAssets/aa.meta
+
+# Игнорировать файлы кэша AssetDatabase
+[Aa]ssets/[Aa]sset[Dd]atabase*
+
+# Игнорировать файлы кэша Lightmap
+[Aa]ssets/[Ll]ightmap[Dd]ata*
+
+# Игнорировать файлы кэша NavMesh
+[Aa]ssets/[Nn]av[Mm]esh[Dd]ata*
+
+# Игнорировать файлы кэша Terrain
+[Aa]ssets/[Tt]errain[Dd]ata*
+
+# Игнорировать файлы кэша Audio
+[Aa]ssets/[Aa]udio[Cc]ache*
+
+# Игнорировать файлы кэша Video
+[Aa]ssets/[Vv]ideo[Cc]ache*
+
+# Игнорировать файлы кэша StreamingAssets
+[Aa]ssets/[Ss]treamingAssets/[Aa]ssetBundles/*
+[Aa]ssets/[Ss]treamingAssets/[Aa]ssetBundles.meta
+
+# Игнорировать файлы кэша Addressables
+[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# Игнорировать файлы кэша Shader
+[Aa]ssets/[Ss]treamingAssets/aa/*
+[Aa]ssets/[Ss]treamingAssets/aa.meta
+
+# Игнорировать файлы кэша AssetDatabase
+[Aa]ssets/[Aa]sset[Dd]atabase*
+
+# Игнорировать файлы кэша Lightmap
+[Aa]ssets/[Ll]ightmap[Dd]ata*
+
+# Игнорировать файлы кэша NavMesh
+[Aa]ssets/[Nn]av[Mm]esh[Dd]ata*
+
+# Игнорировать файлы кэша Terrain
+[Aa]ssets/[Tt]errain[Dd]ata*
+
+# Игнорировать файлы кэша Audio
+[Aa]ssets/[Aa]udio[Cc]ache*
+
+# Игнорировать файлы кэша Video
+[Aa]ssets/[Vv]ideo[Cc]ache*
+
+# Игнорировать файлы кэша StreamingAssets
+[Aa]ssets/[Ss]treamingAssets/[Aa]ssetBundles/*
+[Aa]ssets/[Ss]treamingAssets/[Aa]ssetBundles.meta
