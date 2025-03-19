@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71b2d410ca942b7428e6d8623a4ec30a, type: 3}
+  m_Name: ProductConfig
+  m_EditorClassIdentifier: 
+  products:
+  - type: 0
+    ProductName: "\u044F\u0439\u0446\u043E"
+    sellPrice: 5
+  - type: 1
+    ProductName: "\u0448\u0435\u0440\u0441\u0442\u044C"
+    sellPrice: 10
+  - type: 2
+    ProductName: "\u043C\u043E\u043B\u043E\u043A\u043E"
+    sellPrice: 15
+  - type: 3
+    ProductName: "\u0441\u044B\u0440"
+    sellPrice: 40
+  - type: 4
+    ProductName: "\u0442\u0432\u043E\u0440\u043E\u0433"
+    sellPrice: 60
